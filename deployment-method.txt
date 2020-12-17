@@ -1,0 +1,1 @@
+containerize all parts of pipelines for deployment to production to cloud platform (GCP)
